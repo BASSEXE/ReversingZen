@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-145479924-1'
 
 menu:
-- {name: 'Reversing Strategies', folder: 'pages', file: 'facts.html'}
+- {name: 'Reversing Strategies', folder: 'pages', file: 'stratg.html'}
 - {name: 'Crackmes', folder: 'pages', file: 'resources.html'}
 - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
