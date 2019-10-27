@@ -4,7 +4,7 @@ title: "Certification on a College Budget"
 author: "|3ASS3XE"
 categories: documentation
 tags: [documentation,sample]
-image: city-2.jpg
+image: ALNwLet.jpg
 ---
 # CySecurity Certificate Highlight 
 ## Certification on a college budget
