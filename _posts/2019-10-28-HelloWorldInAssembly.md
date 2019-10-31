@@ -10,7 +10,7 @@ image: AssemblyBanner.jpg
 INTRO:  I’m way too anti-social for a proper introduction, nor do I possess the ego to attempt one. So, we are just going to jump into this very cool Hello World program the not so easy way
 
 Assembly programming language is the last abstraction from high-level programming to full-on machine code.  Within the realm of reverse engineering being familiar with low-level programming is a must in the absence of source code documentation.
-![](https://raw.githubusercontent.com/BASSEXE/ReversingZen/gh-pages/assets/img/HWasm.png)
+![](https://github.com/BASSEXE/ReversingZen/gh-pages/assets/img/HWasm.png)
 # Step 1 Create a HelloWorld.asm text file.
 Create a **HelloWorld.asm** text file using any text editor of preference
 
