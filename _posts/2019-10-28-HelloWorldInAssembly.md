@@ -4,7 +4,7 @@ title: “HelloWorld The Hard Way”
 author: "|3ASS3XE"
 categories: assemblyss
 tags: [documentation]
-image: Screen Shot 2019-10-29 at 10.30.28 PM.png
+image: HWasm.png
 ---
 
 INTRO:  I’m way too anti-social for a proper introduction, nor do I possess the ego to attempt one. So, we are just going to jump into this very cool Hello World program the not so easy way
