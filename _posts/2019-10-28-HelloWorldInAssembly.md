@@ -2,7 +2,7 @@
 layout: post
 title: “HelloWorld The Hard Way”
 author: "|3ASS3XE"
-categories: documentation
+categories: assemblyss
 tags: [documentation]
 image: ALNwLet.jpg
 ---
