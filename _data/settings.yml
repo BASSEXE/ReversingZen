@@ -9,7 +9,7 @@ google-ID: 'UA-145479924-1'
 menu:
 - {name: 'Reversing Strategies', folder: 'pages', file: 'stratg.html'}
 - {name: 'Crackmes', folder: 'pages', file: 'crackmes.html'}
-- {name: 'Assembly/Shellscripting', folder: 'pages', file: 'assemblyss.html'}
+- {name: 'Assembly|Shell', folder: 'pages', file: 'assemblyss.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
