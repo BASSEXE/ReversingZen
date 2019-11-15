@@ -1,11 +1,11 @@
-- - - 
+---
 layout: post
 title: “HelloWorld The Hard Way cont. Part 2”
 author: "|3ASS3XE"
 categories: documentation
 tags: [documentation]
 image: ALNwLet.jpg
-- - - 
+---
 
 # Stepping Through HelloWorld the Hard Way
 ## “If you know the enemy and know yourself, you need not fear the result of a hundred battles.”-Sun Tzu, The Art of War.
