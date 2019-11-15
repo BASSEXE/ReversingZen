@@ -2,7 +2,7 @@
 layout: post
 title: “HelloWorld The Hard Way cont. Part 2”
 author: "|3ASS3XE"
-categories: documentation
+categories: assemblyss
 tags: [documentation]
 image: Ghdbheader.png
 ---
