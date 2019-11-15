@@ -9,17 +9,17 @@ image: Ghdbheader.png
 
 # Stepping Through HelloWorld the Hard Way
 ## “If you know the enemy and know yourself, you need not fear the result of a hundred battles.”-Sun Tzu, The Art of War.
-	So we’ve just created our first Hello World program in NASM  Assembly Programming Language; congrats.  Now we will step back through our program using GDB to have for 360 analysis of our creation.   GDB is a GNU command line debugger native to the UNIX operating system and is an effective tool in program analysis.  
+So we’ve just created our first Hello World program in NASM  Assembly Programming Language; congrats.  Now we will step back through our program using GDB to have for 360 analysis of our creation.   GDB is a GNU command line debugger native to the UNIX operating system and is an effective tool in program analysis.
 
 `gdb -q HELLOWORLD`
 
-	To find our first entry point in our HELLOWORLD program we can read the header files to obtain the **Entry Point Address**; the location of the first executed instruction.  
+To find our first entry point in our HELLOWORLD program we can read the header files to obtain the **Entry Point Address**; the location of the first executed instruction.  
 `(gdb) shell readelf -h HELLOWORLD` (Executes a shell and uses readelf with -h parameter  to read the Header files)
 
 
 ![GDBHeader](https://github.com/BASSEXE/ReversingZen/blob/gh-pages/assets/img/Ghdbheader.png?raw=true)
 
-	Our program’s entry point for our program is  **0x8048080** and will be the location for our first breakpoint.  Setting a breakpoint within GDB is done with the either of the following 
+Our program’s entry point for our program is  **0x8048080** and will be the location for our first breakpoint.  Setting a breakpoint within GDB is done with the either of the following 
 `(gdb)break *0x8048080`  OR `(gdb)b *0x8048080`
 
 Using the **run** command executes our program where it halts at the pre-established breakpoint.  From here using the **disassemble** command prints to screen the assembly code executed within HELLOWORLD.
