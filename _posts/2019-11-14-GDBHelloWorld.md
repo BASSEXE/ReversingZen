@@ -4,7 +4,7 @@ title: “HelloWorld The Hard Way cont. Part 2”
 author: "|3ASS3XE"
 categories: documentation
 tags: [documentation]
-image: ALNwLet.jpg
+image: Ghdbheader.png
 ---
 
 # Stepping Through HelloWorld the Hard Way
