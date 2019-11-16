@@ -37,7 +37,7 @@ Within this context we can also see that the register **EIP** is pointing to the
 
 As we step through our program using **step i**  and using the same analysis process we see a play by play instance of code execution.    While not groundbreaking, I find this aspect of programming exciting.  There is a sense of accomplishment in not only creating something new and functional but having the ability to slow the process down to a crawl.  
 
-![ExamineESP](https://github.com/BASSEXE/ReversingZen/blob/gh-pages/assets/img/ESP%20to%20HW.png)
+![ExamineESP](https://github.com/BASSEXE/ReversingZen/blob/gh-pages/assets/img/ESP%20to%20HW.png?raw=true)
 
 Eventually  the register **EIP**points to the memory address **0x0804808a**  which references **mov ecx, 0x80490a4**
 ![HW Step Through](https://github.com/BASSEXE/ReversingZen/blob/gh-pages/assets/img/Annotation%202019-11-13%20175716.png)
@@ -45,6 +45,6 @@ Eventually  the register **EIP**points to the memory address **0x0804808a**  whi
 
 Examining the memory address located at 0x80490a4 reveals the obvious “Hello World!” with an end of line escape character trailing behind.   Using the **continue **  command we allow the program to continue execution as designed; printing “Hello World!” to screen and properly exiting returning the value 5.
 
-![Address Of HelloWorld String](https://github.com/BASSEXE/ReversingZen/blob/gh-pages/assets/img/AddofHW.png)
+![Address Of HelloWorld String](https://github.com/BASSEXE/ReversingZen/blob/gh-pages/assets/img/AddofHW.png?raw=true)
 
 Being able to effectively use a debugging application like GDB or X64 is crucial in both the realm of Software Development and RE.  The importance lies in being able to understand how programs, think and execute on a basic level.  Within high-level programs there is a huge level of abstraction from the programmer’s logic and how the program executes logic.  RE work in my opinion, is the bridge between those layers and creates transparency from intent to execution.
