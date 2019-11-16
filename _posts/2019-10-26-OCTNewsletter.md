@@ -3,7 +3,7 @@ layout: post
 title: "FIRST LOOK:Pentester Academy"
 author: "|3ASS3XE"
 categories: documentation
-tags: [documentation,sample]
+tags: [documentation]
 image: PA.png
 ---
 # If You Aren’t PenTesting…Try Harder?
