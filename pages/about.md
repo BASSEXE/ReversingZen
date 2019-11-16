@@ -3,4 +3,6 @@ layout: misc
 title: About
 ---
 
-Former Developer turned Security Analyst.  I like taking things apart and doing deep dives.  If you could have a calling, I believe Reversing is mine.  Thank you for walking this path with me
+Creating unique and functional programs is fun; in today's society you rarely have the chance to give birth to something innovative.  Reversing applications and software is a unique offshoot from Developing programs.  While intimidating it creates a challenging dynamic for those interested in Software Development and Cyber Security.
+
+##Crackmes|Assembly|Malware-Analysis|
