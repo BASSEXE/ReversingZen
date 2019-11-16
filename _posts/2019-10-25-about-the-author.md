@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "|3ASS3XE"
-categories: facts
+categories: documentation
 tags: [documentation]
 image: about.jpg
 ---
