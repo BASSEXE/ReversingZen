@@ -19,7 +19,7 @@ To find our first entry point in our HELLOWORLD program we can read the header f
 
 ![GDBHeader](https://github.com/BASSEXE/ReversingZen/blob/gh-pages/assets/img/Ghdbheader.png?raw=true)
 
-Our program’s entry point for our program is  **0x8048080** and will be the location for our first breakpoint.  Setting a breakpoint within GDB is done with the either of the following 
+Our program’s entry point for our program is  **0x8048080** and will be the location for our first breakpoint.  Setting a breakpoint within GDB is done with the either of the following
 `(gdb)break *0x8048080`  OR `(gdb)b *0x8048080`
 
 Using the **run** command executes our program where it halts at the pre-established breakpoint.  From here using the **disassemble** command prints to screen the assembly code executed within HELLOWORLD.
@@ -33,14 +33,14 @@ On the left most column we have the memory address associated with the instructi
 ![InfoRegisters](https://github.com/BASSEXE/ReversingZen/blob/gh-pages/assets/img/InfoRegisters.png?raw=true)
 
 
-Within this context we can also see that the register **EIP** is pointing to the memory address **0x8048080** / **_start(**Our designated label for entry**)** 
+Within this context we can also see that the register **EIP** is pointing to the memory address **0x8048080** / **_start(**Our designated label for entry**)**
 
 As we step through our program using **step i**  and using the same analysis process we see a play by play instance of code execution.    While not groundbreaking, I find this aspect of programming exciting.  There is a sense of accomplishment in not only creating something new and functional but having the ability to slow the process down to a crawl.  
 
 ![ExamineESP](https://github.com/BASSEXE/ReversingZen/blob/gh-pages/assets/img/ESP%20to%20HW.png?raw=true)
 
 Eventually  the register **EIP**points to the memory address **0x0804808a**  which references **mov ecx, 0x80490a4**
-![HW Step Through](https://github.com/BASSEXE/ReversingZen/blob/gh-pages/assets/img/Annotation%202019-11-13%20175716.png)
+![HW Step Through](https://github.com/BASSEXE/ReversingZen/blob/gh-pages/assets/img/Annotation%202019-11-13%20175716.png?raw=true)
 
 
 Examining the memory address located at 0x80490a4 reveals the obvious “Hello World!” with an end of line escape character trailing behind.   Using the **continue **  command we allow the program to continue execution as designed; printing “Hello World!” to screen and properly exiting returning the value 5.
