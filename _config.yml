@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Reversing-Zen"
+title:		           "REverseEN_ZEN"
 description:	       "Reverse Engineering Notebook"
 author:             "|3A$$3XE"
 
