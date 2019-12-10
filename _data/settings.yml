@@ -7,12 +7,12 @@ disqus:
 google-ID: 'UA-145479924-1'
 
 menu:
-- {name: 'Reversing ENginerring', folder: 'pages', file: 'stratg.html'}
-- {name: 'Programing', folder: 'pages', file: 'crackmes.html'}
-- {name: 'Assembly|Shell', folder: 'pages', file: 'assemblyss.html'}
-- {name: 'HackTheBox', folder: 'pages', file: 'documentation.html'}
-- {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'REverseENgineering', folder: 'pages', file: 'stratg.html'}
+- {name: 'haCKthEboX', folder: 'pages', file: 'crackmes.html'}
+- {name: 'ASsembly|SHell', folder: 'pages', file: 'assemblyss.html'}
+- {name: 'MISC,', folder: 'pages', file: 'documentation.html'}
+- {name: 'ABOUT THE AUTHOR', folder: 'pages', file: 'about.html'}
+- {name: 'CONTACT', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
