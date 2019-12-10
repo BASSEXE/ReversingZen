@@ -10,7 +10,7 @@ menu:
 - {name: 'Reversing ENginerring', folder: 'pages', file: 'stratg.html'}
 - {name: 'Programing', folder: 'pages', file: 'crackmes.html'}
 - {name: 'Assembly|Shell', folder: 'pages', file: 'assemblyss.html'}
-- {name: 'Misc', folder: 'pages', file: 'documentation.html'}
+- {name: 'HackTheBox', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
