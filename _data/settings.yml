@@ -10,7 +10,7 @@ menu:
 - {name: 'REverseENgineering', folder: 'pages', file: 'stratg.html'}
 - {name: 'haCKthEboX', folder: 'pages', file: 'crackmes.html'}
 - {name: 'ASsembly|SHell', folder: 'pages', file: 'assemblyss.html'}
-- {name: 'MISC,', folder: 'pages', file: 'documentation.html'}
+- {name: 'MISC', folder: 'pages', file: 'documentation.html'}
 - {name: 'ABOUT', folder: 'pages', file: 'about.html'}
 - {name: 'CONTACT', folder: 'pages', file: 'contact.html'}
 
