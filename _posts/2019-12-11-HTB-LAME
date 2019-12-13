@@ -1,11 +1,11 @@
-___
+---
 layout: post
 title: “HTB::LAME”
 author: "|3ASS3XE"
 categories: crackmes
 tags: [hackthebox, writeups]
 image: HTB_Cover.jpg
-___
+---
 
 
 [LAME.HTB](https://github.com/BASSEXE/ReversingZen/blob/gh-pages/assets/img/LameHTB.png?raw=true)
