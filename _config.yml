@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "REverseEN_ZEN"
-description:	       "Reverse Engineering Notebook"
+description:	       "Reverse_Engineering_Notebook"
 author:             "|3ASS3XE"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
