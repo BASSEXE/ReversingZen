@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "GREY TEAM JOURNAL"
+title:		           "GREY TEAM JRNL"
 description:	       "`WHEN IT COMES TO SPELLING, IT's NOT ALL BLACK AND WHITE"
 author:             "X3A55EXE the GREY"
 
