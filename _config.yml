@@ -1,6 +1,6 @@
 # Site Build Settings
 
-# jekyll-paginate configuration
+# jekyll-paginate configuration force update
 paginate:            4
 
 # Build settings
