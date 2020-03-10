@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-145479924-1'
 
 menu:
-- {name: 'REVERSING', folder: 'pages', file: 'stratg.html'}
+- {name: 'REVERSING', folder: 'pages', file: 'strategy.html'}
 - {name: 'HACK_THE_BOX', folder: 'pages', file: 'crackmes.html'}
 - {name: 'ASSEMBLY|SHELL', folder: 'pages', file: 'assemblyss.html'}
 - {name: 'MISC', folder: 'pages', file: 'documentation.html'}
