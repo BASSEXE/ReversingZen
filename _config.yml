@@ -14,9 +14,9 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "GREY TEAM JRNL"
-description:	       " IT's NOT ALL BLACK AND WHITE"
-author:             "X3A55EXE the GREY"
+title:		           "X3ASSEXE RESEARCH JNL"
+description:	       "GREY TEAM NOTES - " IT's NOT ALL BLACK AND WHITE"
+author:             "X3ASSEXE the GREY"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
